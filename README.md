@@ -3,9 +3,9 @@ Thanks for checking out my profile!
 
 ### About Me
 
-I'm currently a data-engineer [@Packback](www.packback.co) working overclocking higher education w/ AI, but previously worked on environmental monitoring hardware and machine vision for commerical fishing vessels, and transparent communication systems for the Entomology field.  
+I'm currently a data-engineer [@Packback](www.packback.co) working on overclocking higher education w/ AI, but previously worked on environmental monitoring hardware and machine vision for commerical fishing vessels, as well as transparent communication systems for the Entomology field.  
 
-I've also cofounded a company focused on providing accessible & secure decentralized file storage. Check us out [@OpenSigil](www.opensigil.com)!
+I've also cofounded a company focused on providing accessible & secure decentralized file storage. Check us out [@OpenSigil](www.opensigil.com) !
 
 ### What's Here?
 You're going to find a bunch of half finished projects and dead repos (I'll get back to them _at some point_), but a couple highlights are
