@@ -32,7 +32,7 @@ Some of these were built for competitions, others to actually build and share so
 
 
 ### Related links
-- [Instagram](https://www.instagram.com/bryanracic), so you can stalk me even more
-- [Linkedin](https://www.linkedin.com/in/bryan-racic/), for stalking of a more professional nature
-- [OpenSigil](https://github.com/OpenSigil), the GH org for my current primary side project
-- [bryan-flywire](https://github.com/bryan-flywire), a previous-employer attached GH account
+- [Instagram](https://www.instagram.com/bryanracic) so you can stalk me even more
+- [Linkedin](https://www.linkedin.com/in/bryan-racic/) for stalking of a more professional nature
+- [OpenSigil](https://github.com/OpenSigil) the GH org for my current primary side project
+- [bryan-flywire](https://github.com/bryan-flywire) a previous-employer attached GH account
