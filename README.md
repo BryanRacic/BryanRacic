@@ -8,7 +8,7 @@ I'm currently a data-engineer [@Packback](https://www.packback.co/) working on o
 ### What's Here?
 You're going to find a bunch of half finished projects and dead repos (I'll get back to them _at some point_), but a couple highlights are
 - A distributed network for bug sightings (FOR SCIENCE 🥼🐛🔬 ): https://github.com/BryanRacic/whitefly
-- A zero-trust encryption solution: https://github.com/OpenSigil/Hedera22_OpenSigil
+- An (award winning) zero-trust encryption solution: https://github.com/OpenSigil/Hedera22_OpenSigil
 - A long range communications unit built for a music festival in the woods: https://github.com/BryanRacic/LoRaComms
 - A **giant** 3d printed case for storing magnetized warhammer/rpg minis: https://github.com/BryanRacic/MagneticMiniCase
 - An (early) ChatGPT powered Twitch streamer (that speaks with Walter White's voice): https://github.com/BryanRacic/openstreamer
