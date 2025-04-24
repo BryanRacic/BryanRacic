@@ -15,7 +15,7 @@ You're going to find a bunch of half finished projects and dead repos (I'll get 
 
 ### What's Not Here?
 - [Arms Race](https://ctooley21.itch.io/arms-race): A "Clasic-Arcade-style roguelike where upgrades have consequences" I developed with a team for the GoDot Game Jam (#71)
-- [Grindline Race](https://ctooley21.itch.io/grindline): A "skateboarding doodle game w/ unique traversal mechanics" I developed with a team for the GoDot Game Jam (#78)
+- [Grindline](https://ctooley21.itch.io/grindline): A "skateboarding doodle game w/ unique traversal mechanics" I developed with a team for the GoDot Game Jam (#78)
 - [OpenSigil](https://opensigil.com/): A (previous) company I cofounded, with a focus on providing accessible, cheap & secure decentralized file storage
 
 ### What's Next?
