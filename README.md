@@ -13,7 +13,11 @@ You're going to find a bunch of half finished projects and dead repos (I'll get 
 - A zero-trust encryption solution: https://github.com/OpenSigil/Hedera22_OpenSigil
 - A long range communications unit built for a music festival in the woods: https://github.com/BryanRacic/LoRaComms
 - A **giant** 3d printed case for storing magnetized warhammer/rpg minis: https://github.com/BryanRacic/MagneticMiniCase
-- A ChatGPT powered twitch streamer (that speaks with Walter White's voice): https://github.com/BryanRacic/openstreamer
+- An (early) ChatGPT powered Twitch streamer (that speaks with Walter White's voice): https://github.com/BryanRacic/openstreamer
+
+### What's Not Here?
+- [Arms Race](https://ctooley21.itch.io/arms-race): A "Clasic-Arcade-style roguelike where upgrades have consequences" I developed with a team for the GoDot Game Jam (#71)
+- [Grindline Race](https://ctooley21.itch.io/grindline): A "skateboarding doodle game w/ unique traversal mechanics" I developed with a team for the GoDot Game Jam (#78)
 
 ### What's Next?
 **¯\\_(ツ)_/¯**
