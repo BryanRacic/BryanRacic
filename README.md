@@ -14,8 +14,8 @@ A bunch of half finished projects and dead repos (I'll get back to them _at some
 - An (early) ChatGPT powered Twitch streamer (that speaks with Walter White's voice): https://github.com/BryanRacic/openstreamer
 
 ### What's Not Here?
-- [Arms Race](https://ctooley21.itch.io/arms-race): A "Clasic-Arcade-style roguelike where upgrades have consequences" I developed with a team for the GoDot Game Jam (#71)
-- [Grindline](https://ctooley21.itch.io/grindline): A "skateboarding doodle game w/ unique traversal mechanics" I developed with a team for the GoDot Game Jam (#78)
+- [Arms Race](https://ctooley21.itch.io/arms-race): A "_Clasic-Arcade-style roguelike where upgrades have consequences_" I developed with a team for the GoDot Game Jam (#71)
+- [Grindline](https://ctooley21.itch.io/grindline): A "_skateboarding doodle game w/ unique traversal mechanics_" I developed with a team for the GoDot Game Jam (#78)
 - [OpenSigil](https://opensigil.com/): A (_previous_) company I cofounded, with a focus on providing accessible, cheap & secure decentralized file storage
 
 ### What's Next?
