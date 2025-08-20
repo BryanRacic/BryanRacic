@@ -11,7 +11,7 @@ A bunch of half finished projects and dead repos (I'll get back to them _at some
 - An (award winning) zero-trust encryption solution: https://github.com/OpenSigil/Hedera22_OpenSigil
 - A long range communications unit built for a music festival in the woods: https://github.com/BryanRacic/LoRaComms
 - A **giant** 3d printed case for storing magnetized warhammer/rpg minis: https://github.com/BryanRacic/MagneticMiniCase
-- An (early) ChatGPT powered Twitch streamer (that speaks with Walter White's voice): https://github.com/BryanRacic/openstreamer
+- An (_early_) ChatGPT powered Twitch streamer (_that speaks with Walter White's voice_): https://github.com/BryanRacic/openstreamer
 
 ### What's Not Here?
 - [Arms Race](https://ctooley21.itch.io/arms-race): A "_Clasic-Arcade-style roguelike where upgrades have consequences_" I developed with a team for the GoDot Game Jam (#71)
