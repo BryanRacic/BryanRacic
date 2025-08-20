@@ -6,7 +6,7 @@ Thanks for checking out my profile!
 I'm currently a data-engineer [@Packback](https://www.packback.co/) working on improving higher education w/ responsible utilization of AI. Previously worked on environmental monitoring hardware and machine vision solutions for commerical fishing vessels, as well as publicly transparent communication systems for the field of Entomology.  
 
 ### What's Here?
-You're going to find a bunch of half finished projects and dead repos (I'll get back to them _at some point_), but a couple highlights are
+A bunch of half finished projects and dead repos (I'll get back to them _at some point_), but a couple highlights are
 - A distributed network for bug sightings (FOR SCIENCE 🥼🐛🔬 ): https://github.com/BryanRacic/whitefly
 - An (award winning) zero-trust encryption solution: https://github.com/OpenSigil/Hedera22_OpenSigil
 - A long range communications unit built for a music festival in the woods: https://github.com/BryanRacic/LoRaComms
