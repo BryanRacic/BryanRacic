@@ -14,6 +14,7 @@ A bunch of half finished projects and dead repos (I'll get back to them _at some
 - An (_early_) ChatGPT powered Twitch streamer (_that speaks with Walter White's voice_): https://github.com/BryanRacic/openstreamer
 
 ### What's Not Here?
+- [**Bad Dog**](https://ctooley21.itch.io/bad-dog): A "_3d physics-based adventure game that runs entirely in-browser_" I developed with a team for the Brackeys Game Jam 2025.2
 - [**Arms Race**](https://ctooley21.itch.io/arms-race): A "_Clasic-Arcade-style roguelike where upgrades have consequences_" I developed with a team for the GoDot Game Jam (#71)
 - [**Grindline**](https://ctooley21.itch.io/grindline): A "_skateboarding doodle game w/ unique traversal mechanics_" I developed with a team for the GoDot Game Jam (#78)
 - [**OpenSigil**](https://opensigil.com/): A (_previous_) company I cofounded, with a focus on providing accessible, cheap & secure decentralized file storage
@@ -37,5 +38,4 @@ Some of these were built for competitions, others to actually build and share so
 ### Related links
 - [Instagram](https://www.instagram.com/bryanracic) so you can stalk me even more
 - [Linkedin](https://www.linkedin.com/in/bryan-racic/) for stalking of a more professional nature
-- [OpenSigil](https://github.com/OpenSigil) the GH org for my current primary side project
 - [bryan-flywire](https://github.com/bryan-flywire) a previous-employer attached GH account
