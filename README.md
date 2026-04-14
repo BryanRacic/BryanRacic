@@ -11,6 +11,7 @@ A bunch of half finished projects and dead repos (I'll get back to them _at some
 - An (_award winning_) zero-trust encryption solution: https://github.com/OpenSigil/Hedera22_OpenSigil
 - A long range communications unit built for a music festival in the woods: https://github.com/BryanRacic/LoRaComms
 - A **giant** 3d printed case for storing magnetized warhammer/rpg minis: https://github.com/BryanRacic/MagneticMiniCase
+- A script that updates your (Linux) wallpaper to a random Wikipedia image: https://github.com/BryanRacic/wikibackground
 
 ### What's Not Here?
 - [**Bad Dog**](https://ctooley21.itch.io/bad-dog): A "_3d physics-based adventure game that runs entirely in-browser_" I developed with a team for the Brackeys Game Jam 2025.2
