@@ -14,10 +14,12 @@ A bunch of half finished projects and dead repos (I'll get back to them _at some
 - A script that updates your (Linux) wallpaper to a random Wikipedia image: https://github.com/BryanRacic/wikibackground
 
 ### What's Not Here?
+- [**Klorbiest Catch**](https://datandragons.itch.io/klorbiest-catch): A 3D crab-fishing strategy game inspired by the "Deadliest Catch" TV show, still under active development
 - [**Bad Dog**](https://ctooley21.itch.io/bad-dog): A "_3d physics-based adventure game that runs entirely in-browser_" I developed with a team for the Brackeys Game Jam 2025.2
 - [**Arms Race**](https://ctooley21.itch.io/arms-race): A "_Clasic-Arcade-style roguelike where upgrades have consequences_" I developed with a team for the GoDot Game Jam (#71)
 - [**Grindline**](https://ctooley21.itch.io/grindline): A "_skateboarding doodle game w/ unique traversal mechanics_" I developed with a team for the GoDot Game Jam (#78)
 - [**OpenSigil**](https://opensigil.com/): A (_previous_) company I cofounded, with a focus on providing accessible, cheap & secure decentralized file storage
+- (Coming Soon!) A cheap, open source, simulation style set of USB-HID controllers for boat simulation games/software
 
 ### What's Next?
 **¯\\_(ツ)_/¯**
